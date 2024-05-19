@@ -1,3 +1,8 @@
+Integrantes: 
+-Ronin Carrion.
+-José Benítez.
+
+
 # taller06
 
 ### Problemática
